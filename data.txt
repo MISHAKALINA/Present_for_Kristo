@@ -1,0 +1,4 @@
+game_width = 900
+game_height = 506
+charachter_x = 864
+charachter_y = 144
